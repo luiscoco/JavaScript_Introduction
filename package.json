@@ -1,0 +1,7 @@
+{
+	"name": "basic-js",
+	"dependencies": {
+		"dedent": "^0.7.0"
+	},
+	"type": "module"
+}
